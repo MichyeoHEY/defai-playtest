@@ -2,7 +2,7 @@
 
 A shareable WebGL build of the current boss fight from **defAI**, for playtesting.
 
-**▶ Play:** https://michyeohey.github.io/defai-boss-demo/
+**▶ Play:** https://michyeohey.github.io/defai-playtest/
 
 ## Controls
 - **Move:** WASD (or left stick)
